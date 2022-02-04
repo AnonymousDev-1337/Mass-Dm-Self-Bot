@@ -52,7 +52,7 @@
 
 ## About The Project
 
-<img src="assets/example.png" alt="Image of product">
+<img src="https://github.com/AnonymousDev-1337/Mass-Dm-Self-Bot/blob/main/assets/logo.png" alt="Image of product">
 
 It generates and checks discord nitro codes at the same time for maximum efficiency
 
