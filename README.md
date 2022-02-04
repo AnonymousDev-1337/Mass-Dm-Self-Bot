@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Mass-Dm-Self-Bot">
-    <img src="assets/logo.png" alt="Logo" width="150" height="150">
+    <img src="https://github.com/AnonymousDev-1337/Mass-Dm-Self-Bot/blob/main/assets/logo.png" alt="Logo" width="150" height="150">
   </a>
   
   <h3 align="center">Mass Dm Self Bot</h3>
